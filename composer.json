@@ -1,0 +1,21 @@
+{
+    "name": "campo/docxfindandreplace",
+    "description": "Find and replace variables in a DOCX template.",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^5.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joe Campo",
+            "email": "jcampo@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Campo\\DocxFindAndReplace\\": "src"
+        }
+    }
+}
