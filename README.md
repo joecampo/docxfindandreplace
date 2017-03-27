@@ -27,6 +27,7 @@ In your DOCX template you will need to wrap any variables you would like to repl
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
 [ico-version]: https://img.shields.io/packagist/v/campo/docxfindandreplace.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [link-packagist]: https://packagist.org/packages/campo/docxfindandreplace
